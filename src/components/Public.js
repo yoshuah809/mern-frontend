@@ -20,7 +20,7 @@ const Public = () => {
 					<br />
 					Foo City, CA 12345
 					<br />
-					<a href="tel:+15555555555">(555) 555-5555</a>
+					<a href="tel:+18455555555">(555) 555-5555</a>
 				</address>
 				<br />
 				<p>Owner: Dan Davidson</p>
